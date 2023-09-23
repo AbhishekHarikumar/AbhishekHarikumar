@@ -23,14 +23,12 @@
 ✽ 📫 How to reach me **abhishekharikumar40@gmail.com**
 
 
-✽  📄 Know about my experiences [https://drive.google.com/file/d/19qRy7jNVUxVGty9BP8EpXeuDIFACReMw/view?usp=sharing](https://drive.google.com/file/d/19qRy7jNVUxVGty9BP8EpXeuDIFACReMw/view?usp=sharing)
-
-
 ✽  ⚡ Serious fact **I have one mission in life and is to be the best at what I am doing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/abhishek harikumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek harikumar" height="30" width="40" /></a>
+<a href="https://drive.google.com/file/d/19qRy7jNVUxVGty9BP8EpXeuDIFACReMw/view?usp=drive_link" target="blank"><img align="center" src="https://images.squarespace-cdn.com/content/v1/55e9ce26e4b0f0e15f28cc03/1555539083647-ZCYEGI5QXJTJPT4U5524/Resume-logo.png" alt="abhishek harikumar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
