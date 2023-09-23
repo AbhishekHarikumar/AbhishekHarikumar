@@ -2,28 +2,28 @@
 <h3 align="center">Aspiring Data Scientist | Advanced Computer Science Engineer | Lean Six Sigma Green Belt |</h3>
 <img align="right" alt="Coding" width="400" src="https://www.folio3.ai/blog/wp-content/uploads/2023/07/Unleashing-the-Power-of-Big-Data-Predictive-Analytics-How-Businesses-Can-Gain-a-Competitive-Edge-800x533.jpg">
 
-✽ 👨🏻‍🎓 I’m currently a Master's Student @ **University of York**
+👨🏻‍🎓 I’m currently a Master's Student @ **University of York**
 
 
-✽ 🌱 I’m currently learning **Data Analytics / Data Science**
+🌱 I’m currently learning **Data Analytics / Data Science**
 
 
-✽ 👯 I’m looking to collaborate on **Data Analytics Projects**
+👯 I’m looking to collaborate on **Data Analytics Projects**
 
 
-✽ 🤝 I’m looking for help with **Data Analytics / Data Science**
+🤝 I’m looking for help with **Data Analytics / Data Science**
 
 
-✽ 🏆 Awards  **York Award**
+🏆 Awards  **York Award**
 
 
-✽ 💬 Ask me about **SQL,Python**
+💬 Ask me about **SQL,Python**
 
 
-✽ 📫 How to reach me **abhishekharikumar40@gmail.com**
+📫 How to reach me **abhishekharikumar40@gmail.com**
 
 
-✽  ⚡ Serious fact **I have one mission in life and is to be the best at what I am doing**
+⚡ Serious fact **I have one mission in life and is to be the best at what I am doing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
