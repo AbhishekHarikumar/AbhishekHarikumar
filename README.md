@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Data Scientist | Advanced Computer Science Engineer | Lean Six Sigma Green Belt |</h3>
 <img align="right" alt="Coding" width="400" src="https://www.folio3.ai/blog/wp-content/uploads/2023/07/Unleashing-the-Power-of-Big-Data-Predictive-Analytics-How-Businesses-Can-Gain-a-Competitive-Edge-800x533.jpg">
 
-👨🏻‍🎓 I’m currently a Master's Student @ **University of York**
+👨🏻‍🎓 I’m a Master's Graduate @ **University of York**
 
 
 🌱 I’m currently learning **Data Analytics / Data Science**
