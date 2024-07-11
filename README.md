@@ -2,6 +2,34 @@
 <h3 align="center">Data Analyst | Advanced Computer Science Engineer | Business Intelligence Specialist | Oracle Certified SQL Associate | Python | Machine Learning | Microsoft Certified Power BI Data Analyst | 6σ Green Belt |</h3>
 <img align="right" alt="Coding" width="400" src="https://www.folio3.ai/blog/wp-content/uploads/2023/07/Unleashing-the-Power-of-Big-Data-Predictive-Analytics-How-Businesses-Can-Gain-a-Competitive-Edge-800x533.jpg">
 
+As a Data Analyst with a Master's in Advanced Computer Science from the University of York, I bring a strong technical skill set and a passion for extracting value from data. My experience spans Machine Learning, Computer Vision, and High-Performance Computing. I specialize in SQL, Python, and business intelligence tools like Power BI. 
+
+Key Highlights:-
+
+✵ Advanced training and hands-on experience in data analysis, machine learning, and data visualisation. 
+
+✵ Proven track record of developing and implementing robust data solutions, reducing fraud rates, and improving operational efficiencies. 
+
+✵ Strong technical capabilities and leadership experience, demonstrated through internships and academic projects. I am dedicated to continuous learning and development, aiming to provide actionable insights and drive business growth through data.
+
+Let's connect and explore opportunities where I can contribute my skills and expertise to your organisation. 
+
+Technical Skills & Tools :-
+- Programming:- Python, SQL, NetLogo, HTML, C 
+- Data Science & Machine Learning:- Libraries: NumPy, Matplotlib, Pandas, TensorFlow, Sci-kit - learn, Deep Learning, Neural Networks, NLP
+- Data Analytics:- DBMS, Data Preprocessing, Data Cleaning, Data Visualisation, Data Analysis 
+- Business Intelligence:- Power BI, Tableau, Advanced Excel
+- Parallel Programming:- Open MP, CUDA
+- Statistics:- Engineering Math, Confidence Interval, Hypothesis Testing
+- Tools:- Jupyter Notebook, VS Code, Qualtrics, Microsoft Office 365, Github, ffmpeg
+- OS - Mac OS, Linux, Windows
+- Cloud - AWS, EC2
+
+Transferable Soft Skills:-
+
+Strong written and verbal Communication, Priority management, Ability to work under pressure, Team Work, Strategic Thinking, Problem-Solving, Collaboration, Forward thinking, Excellent Presentation Skills, Research, Leadership, Tenacious Work Ethic.
+
+
 👨🏻‍🎓 I’m a Master's Graduate @ **University of York**
 
 
