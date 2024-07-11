@@ -25,10 +25,6 @@ Technical Skills & Tools :-
 - OS - Mac OS, Linux, Windows
 - Cloud - AWS, EC2
 
-Transferable Soft Skills:-
-
-Strong written and verbal Communication, Priority management, Ability to work under pressure, Team Work, Strategic Thinking, Problem-Solving, Collaboration, Forward thinking, Excellent Presentation Skills, Research, Leadership, Tenacious Work Ethic.
-
 
 👨🏻‍🎓 I’m a Master's Graduate @ **University of York**
 
