@@ -18,6 +18,13 @@ Welcome, I'm a Engineer based in London, UK with a Master's in Advanced Computer
 - Life Cycles - Software Development Life Cycle (SDLC), Data Science Life Cycle
 - Competitive Programming - Code Chef, Leetcode, Hacker Rank, Data Lemur, Kaggle
 
+<h1 align="left">💻 Competative Programming</h1>
+
+- <a href="https://leetcode.com/u/Abhishek_Harikumar_Narayanan/">Leetcode</a>
+- <a href="https://www.kaggle.com/abhishekhn">Kaggle</a>
+- <a href="https://www.codechef.com/users/saiabhihari">Codechef</a>
+- <a href="https://www.hackerrank.com/profile/AbhishekHari15">HackerRank</a>
+
 <h1 align="left">🤝 Lets Connect!</h1>
 
 - <a href="https://www.linkedin.com/in/saiabhi15/">LinkedIn</a>
