@@ -1,8 +1,6 @@
 <h1 align="left">Hi There 👋🏻, I'm Abhishek</h1>
-<h4 align="left" text-align = "justify"  text-justify = "inter-word">Welcome!, I'm a Engineer based in London, UK with a Master's in Advanced Computer Science from the University of York, I bring a strong technical skill set and a passion for extracting value from data. My experience spans Data Science, Machine Learning, Computer Vision, and High-Performance Computing. I specialize in SQL, Python, and business intelligence tools like Power BI.
-</h4>
-
-<img align="right" alt="Coding" width="400" src="https://www.folio3.ai/blog/wp-content/uploads/2023/07/Unleashing-the-Power-of-Big-Data-Predictive-Analytics-How-Businesses-Can-Gain-a-Competitive-Edge-800x533.jpg">
+<h5 align="left" text-align = "justify"  text-justify = "inter-word">Welcome!, I'm a Engineer based in London, UK with a Master's in Advanced Computer Science from the University of York, I bring a strong technical skill set and a passion for extracting value from data. My experience spans Data Science, Machine Learning, Computer Vision, and High-Performance Computing. I specialize in SQL, Python, and business intelligence tools like Power BI.
+</h5>
 
 As a Data Analyst with a Master's in Advanced Computer Science from the University of York, I bring a strong technical skill set and a passion for extracting value from data. My experience spans Machine Learning, Computer Vision, and High-Performance Computing. I specialize in SQL, Python, and business intelligence tools like Power BI. 
 
