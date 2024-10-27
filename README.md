@@ -24,6 +24,7 @@ Welcome, I'm a Engineer based in London, UK with a Master's in Advanced Computer
 - <a href="https://www.kaggle.com/abhishekhn">Kaggle</a>
 - <a href="https://www.codechef.com/users/saiabhihari">Codechef</a>
 - <a href="https://www.hackerrank.com/profile/AbhishekHari15">HackerRank</a>
+- <a href="https://datalemur.com/profile">Data Lemur</a>
 
 <h1 align="left">⚒️ Projects</h1>
 
