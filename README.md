@@ -32,7 +32,7 @@ Welcome, I'm a Engineer based in London, UK with a Master's in Advanced Computer
 <h1 align="left">🤝 Lets Connect!</h1>
 
 - <a href="https://www.linkedin.com/in/saiabhi15/">LinkedIn</a>
-- <a href="saiabhi15@outlook.com">Email ID</a>
+- <a>Email ID - saiabhi15@outlook.com</a>
 - <a href= "https://drive.google.com/file/d/1Y-LLxjdUBocwYVoaP4s0FMIpWWDKEiIx/view?usp=sharing">Dashboards</a>
 
 
