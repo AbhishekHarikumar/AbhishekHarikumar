@@ -1,6 +1,7 @@
 <h1 align="left">Hi There 👋🏻, I'm Abhishek</h1>
-<h5 align="left" text-align = "justify"  text-justify = "inter-word">Welcome!, I'm a Engineer based in London, UK with a Master's in Advanced Computer Science from the University of York, I bring a strong technical skill set and a passion for extracting value from data. My experience spans Data Science, Machine Learning, Computer Vision, and High-Performance Computing. I specialize in SQL, Python, and business intelligence tools like Power BI.
-</h5>
+
+Welcome!, I'm a Engineer based in London, UK with a Master's in Advanced Computer Science from the University of York, I bring a strong technical skill set and a passion for extracting value from data. My experience spans Data Science, Machine Learning, Computer Vision, and High-Performance Computing. I specialize in SQL, Python, and business intelligence tools like Power BI.
+
 
 As a Data Analyst with a Master's in Advanced Computer Science from the University of York, I bring a strong technical skill set and a passion for extracting value from data. My experience spans Machine Learning, Computer Vision, and High-Performance Computing. I specialize in SQL, Python, and business intelligence tools like Power BI. 
 
