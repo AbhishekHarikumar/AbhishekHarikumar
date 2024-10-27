@@ -1,5 +1,5 @@
 <h1 align="left">Hi There 👋🏻, I'm Abhishek</h1>
-<h3 align="center">Data Analyst | Advanced Computer Science Engineer | Business Intelligence Specialist | Oracle Certified SQL Associate | Python | Machine Learning | Microsoft Certified Power BI Data Analyst | 6σ Green Belt |</h3>
+<h4 align="center">Welcome!, Respected Engineer based in London, UK with a Master's in Advanced Computer Science from the University of York, I bring a strong technical skill set and a passion for extracting value from data. My experience spans Data Science, Machine Learning, Computer Vision, and High-Performance Computing. I specialize in SQL, Python, and business intelligence tools like Power BI. </h4>
 <img align="right" alt="Coding" width="400" src="https://www.folio3.ai/blog/wp-content/uploads/2023/07/Unleashing-the-Power-of-Big-Data-Predictive-Analytics-How-Businesses-Can-Gain-a-Competitive-Edge-800x533.jpg">
 
 As a Data Analyst with a Master's in Advanced Computer Science from the University of York, I bring a strong technical skill set and a passion for extracting value from data. My experience spans Machine Learning, Computer Vision, and High-Performance Computing. I specialize in SQL, Python, and business intelligence tools like Power BI. 
@@ -21,7 +21,7 @@ TECHNICAL COMPETENCIES & KNOWLEDGE BASE:-
 - Data Analytics:- DBMS, Data Preprocessing, Data Cleaning, Data Visualisation, Data Analysis 
 - Business Intelligence:- Power BI, Tableau, Advanced Excel
 - Parallel Programming:- Open MP, CUDA
-- Statistics:- Engineering Math, Confidence Interval, Hypothesis Testing
+- Statistics:- Engineering  Math, Confidence Interval, Hypothesis Testing
 - Tools:- Jupyter Notebook, VS Code, Qualtrics, Microsoft Office 365, Github, ffmpeg, Intel VTune, Intel Advisor
 - Databases - Oracle DB, Postgres, My SQL, SQL Server(SSMS)
 - OS - Mac OS, Linux, Windows
