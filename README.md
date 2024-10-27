@@ -18,6 +18,12 @@ Welcome, I'm a Engineer based in London, UK with a Master's in Advanced Computer
 - Life Cycles - Software Development Life Cycle (SDLC), Data Science Life Cycle
 - Competitive Programming - Code Chef, Leetcode, Hacker Rank, Data Lemur, Kaggle
 
+<h1 align="left">🤝 Lets Connect!</h1>
+
+- <a href="https://www.linkedin.com/in/saiabhi15/">LinkedIn</a>
+- <a href="saiabhi15@outlook.com">Email ID</a>
+- <a href= "https://drive.google.com/file/d/1Y-LLxjdUBocwYVoaP4s0FMIpWWDKEiIx/view?usp=sharing">Dashboards</a>
+
 👨🏻‍🎓 I’m a Master's Graduate @ **University of York**
 
 
