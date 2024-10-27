@@ -29,7 +29,7 @@ Welcome, I'm a Engineer based in London, UK with a Master's in Advanced Computer
 
 - <a href="https://github.com/AbhishekHarikumar/Scrutinising-Motion">Optical Flow Scrutanising</a>
 
-<h1 align="left">Stats</h1>
+<h1 align="left">📈 Stats</h1>
 
 ![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbhishekHarikumar&theme=graywhite)
 
