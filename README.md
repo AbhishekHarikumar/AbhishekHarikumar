@@ -37,8 +37,7 @@
 <h1 align="left">🤝 Lets Connect!</h1>
 
 - <a href="https://www.linkedin.com/in/saiabhi15/">LinkedIn</a>
-- <a>Email ID - saiabhi15@outlook.com</a>
-- <a href= "https://drive.google.com/file/d/1Y-LLxjdUBocwYVoaP4s0FMIpWWDKEiIx/view?usp=sharing">Dashboards</a>
+- <a href = "saiabhi15@outlook.com"></a>
 
 
 
