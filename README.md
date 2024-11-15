@@ -26,7 +26,7 @@
 - <a href="https://www.hackerrank.com/profile/AbhishekHari15">HackerRank</a>
 - <a href="https://datalemur.com/profile">Data Lemur</a>
 
-<h1 align="left">⚒️ Projects</h1>
+<h1 align="left">Projects</h1>
 
 - <a href="https://github.com/AbhishekHarikumar/Scrutinising-Motion">Optical Flow Scrutanising</a>
 
