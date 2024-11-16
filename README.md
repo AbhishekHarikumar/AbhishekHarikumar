@@ -1,4 +1,4 @@
-<p style="text-align: left; font-size: 24px;">Abhishek Harikumar Narayanan</p>
+<p style="text-align: left; font-size: 100px;">Abhishek Harikumar Narayanan</p>
 
 <p align="justify"> Welcome, I'm a Engineer based in London, UK with a Master's in Advanced Computer Science from the University of York, I bring a strong technical skill set and a passion for extracting value from data. My experience spans Data Science, Machine Learning, Computer Vision, and High-Performance Computing. I specialize in SQL, Python, and business intelligence tools like Power BI.</p>
 
