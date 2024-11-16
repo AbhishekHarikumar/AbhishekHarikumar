@@ -28,7 +28,7 @@
 
 <h1 align="left">Projects</h1>
 
-- <a href="https://github.com/AbhishekHarikumar/Scrutinising-Motion">Optical Flow Scrutanising</a>
+- <a href="https://github.com/AbhishekHarikumar/Scrutinising-Motion">Scrutanising Motion</a>
 
 <h1 align="left"> Stats</h1>
 
