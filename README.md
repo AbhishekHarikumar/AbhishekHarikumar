@@ -30,6 +30,8 @@
 
 - <a href="https://github.com/AbhishekHarikumar/Scrutinising-Motion">Scrutanising Motion</a>
 
+- <a href="https://github.com/AbhishekHarikumar/Fraud-Detection-in-Insurance-Systems-using-Machine-Learning">Fraud Detection Model</a>
+
 <h1 align="left"> Stats</h1>
 
 ![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbhishekHarikumar&theme=graywhite)
